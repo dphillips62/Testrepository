@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+Hello how are we;lksdaf;lkjsadf;flkj
+
+Here is another change
+
+sdfgsdfg
+
+sertyreturty - this is a conflicting change
+
+
+
+dfghdfghdfgh
+d
+gf
+can
+cvbncvbn
+
+
+
+cvbncvbncvbn
+
+Change here
+cvbncvbncvbndfghdfgh
+
+=======
+Hello how are we;lksdaf;lkjsadf;flkj
+>>>>>>> parent of e8e361d... New change to the file
